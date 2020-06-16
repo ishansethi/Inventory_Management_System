@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Product
+comment1.params=
+comment1.target=Product()
+comment10.params=MinOrderQty
+comment10.target=void\ setMinOrderQty(int)
+comment11.params=
+comment11.target=double\ GetMinOrderQty()
+comment2.params=ProdName
+comment2.target=void\ setProdName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ GetProdName()
+comment4.params=ProdDesc
+comment4.target=void\ setProdDesc(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ GetProdDesc()
+comment6.params=ProdPrice
+comment6.target=void\ setProdPrice(double)
+comment7.params=
+comment7.target=double\ GetProdPrice()
+comment8.params=QtyOnHand
+comment8.target=void\ setQtyOnHand(int)
+comment9.params=
+comment9.target=int\ GetQtyOnHand()
+numComments=12

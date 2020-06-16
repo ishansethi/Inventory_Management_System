@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RandomNumberGenerator
+comment1.params=
+comment1.target=RandomNumberGenerator()
+comment2.params=
+comment2.target=int\ GetQtyOnHandRand()
+comment3.params=
+comment3.target=int\ GetMinOrderQtyRand()
+numComments=4
